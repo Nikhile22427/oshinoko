@@ -6,3 +6,4 @@ hide: true
 ---
 
 dis is my blog
+I love oshi no ko
