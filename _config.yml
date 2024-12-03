@@ -1,9 +1,9 @@
-title: I love oshi no ko 
-description: "Ai hoshino my beloved"
+title: Nikhil Ekambaram's blog
+description: Go visit the other blog
 owner_name: Nikhil Ekambaram
 github_username: Nikhile22427
 github_repo: "oshinoko" 
-baseurl: "/nikhil-blog-desktop"
+# baseurl: "/nikhil-blog-desktop"
 future: true
 remote_theme: jekyll/minima
 minima:
