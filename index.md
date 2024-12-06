@@ -17,7 +17,5 @@ hide: false
 <h2>Required stuff so far:</h2></br>
 <p><a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" target="_blank">Verify</a></p>
 
-
-</body>  
 </html>
 
