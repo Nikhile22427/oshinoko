@@ -5,12 +5,18 @@ description: Home Page
 hide: false
 ---
 <html>
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    p {text-align: center;}
+    h2 {text-align: center;}
+</style>
+</head>
 <body>
 <h1>The one stop shop to track my progress this trimester</h1>
-<p>but first, <span style="color:purple;font-weight:bold">Ai Hoshino</span></p>
+<h2>Required stuff so far:</h2></br>
+<p><a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" target="_blank">Verify</a></p>
 
-<h2>Moving on, here's the important bit</h2>
 
 </body>  
 </html>
