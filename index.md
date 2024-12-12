@@ -15,7 +15,8 @@ hide: false
 <body>
 <h1>The one stop shop to track my progress this trimester</h1>
 <h2>Required stuff so far:</h2><br>
-<p><a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" target="_blank">Verify</a> <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play" target="_blank">Play</a></p>
+<p><a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" target="_blank">Verify</a> <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play" target="_blank">Play</a>
+
+</p>
 
 
-<h1>First Blog(?)</h1>

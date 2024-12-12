@@ -33,9 +33,24 @@ i   mg {
 </style>
 </head>
 <body>
+
+<h1>About Me</h1>
+<p>My name is Nikhil Ekambaram. I enjoy:</p><br>
+<ul>
+    <li>Fencing (saber is the best)</li>
+    <li>Videogames (Titanfall 2 #1)</li>
+    <li>Music (Idol by YOASOBI!!!!!!)</li>
+    <li>My dog </li>
+
+</ul>
+
+
+
+
+
 <p><h1><span style="color:purple;font-weight:bold">Ai Hoshino</span></h1></p> 
 <br>
-<p>Arguably, Ai Hoshino is the #1 idol. This is because idol=idol and as shown in the animated picture below, has 2 very motivated babies supporting her.</p><br>
+<p>Arguably, Ai Hoshino is the #1 idol. This is because idol=idol and as shown in the animated picture below, has 2 very motivated w/ lightsticks.</p><br>
 
 <p><a href="https://evansvetina.github.io/CSSEproj1" class="button">Obligatory partner blog plug</a></p>
 
@@ -55,7 +70,6 @@ i   mg {
         </ul> 
         <h3>Not watched yet</h3>
         <ul>
-            
             <li>Kiznaiver</li>
             <li>Vinland saga</li>
             <li>Death Note</li>
