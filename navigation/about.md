@@ -52,7 +52,10 @@ i   mg {
 <br>
 <p>Arguably, Ai Hoshino is the #1 idol. This is because idol=idol and as shown in the animated picture below, has 2 very motivated w/ lightsticks.</p><br>
 
-<p><a href="https://evansvetina.github.io/CSSEproj1" class="button">Obligatory partner blog plug</a></p>
+<p>
+<a href="https://evansvetina.github.io/CSSEproj1" class="button">Obligatory partner blog plug</a>
+
+</p>
 
 
 <img src="https://cdn.myanimelist.net/r/200x268/images/characters/6/496453.jpg?s=f78b6dbaf8d93085f406d5bb9d2aab70" height="230" class="" style="padding-left: 200px;"> <img src="https://media1.tenor.com/m/PdX3X0HrrkYAAAAd/oshi-no-ko-aqua.gif" height="230"> <img src="https://staticg.sportskeeda.com/editor/2023/05/71dd8-16838551463424-1920.jpg" class="center" height="230">
