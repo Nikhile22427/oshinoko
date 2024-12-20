@@ -84,7 +84,7 @@ hide: false
         <div id="gameover" class="py-4 text-light">
             <p>Game Over, press <span style="background-color: #FFFFFF; color: #000000">space</span> to try again</p>
             <a id="new_game1" class="link-alert">new game</a>
-            <a id="setting_menu1" class="link-alert">settings</a>
+            <a id="setting_menu1" class="link-alert">settings/difficulty changes</a>
         </div>
         <!-- Play Screen -->
         <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
