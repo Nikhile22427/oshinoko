@@ -69,7 +69,7 @@ hide: false
         color: #001;
     }
 </style>
-<h2>Snake</h2>
+<h2>Eye Destroyer 9000</h2>
 <div class="container">
     <header class="pb-3 mb-4 border-bottom border-primary text-dark">
         <p class="fs-4">Score: <span id="score_value">0</span></p>
@@ -78,7 +78,7 @@ hide: false
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
             <a id="new_game" class="link-alert">new game</a>
-            <a id="setting_menu" class="link-alert">settings</a>
+            <a id="setting_menu" class="link-alert">settings/difficulty selection</a>
         </div>
         <!-- Game Over -->
         <div id="gameover" class="py-4 text-light">
@@ -142,6 +142,7 @@ hide: false
         const button_new_game2 = document.getElementById("new_game2");
         const button_setting_menu = document.getElementById("setting_menu");
         const button_setting_menu1 = document.getElementById("setting_menu1");
+        const wallSound = new Audio('assets/sadtrombone.swf.mp3');
         // Game Control
         const BLOCK = 10;   // size of block rendering
         let SCREEN = SCREEN_MENU;
@@ -238,6 +239,7 @@ hide: false
             if(wall === 1){
                 // Wall on, Game over test
                 if (snake[0].x < 0 || snake[0].x === canvas.width / BLOCK || snake[0].y < 0 || snake[0].y === canvas.height / BLOCK){
+                    wallSound.play();
                     showScreen(SCREEN_GAME_OVER);
                     return;
                 }
