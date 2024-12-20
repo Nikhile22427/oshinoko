@@ -31,8 +31,15 @@ hide: false
         border-width: 10px;
         border-color:rgb(255, 255, 255);
     }
-    canvas:focus{
-        outline: none;
+    canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #fff;
+    border-radius: 30px; /* Optional: rounded corners */
+    transform: perspective(800px) rotateX(10deg) rotateY(5deg);
+    filter: contrast(1.2) brightness(1.3) saturate(1.2);
+    box-shadow: 0px 0px 25px rgba(0, 255, 0, 0.8); /* Optional: glowing effect */
     }
     /* All screens style */
     #gameover p, #setting p, #menu p{
