@@ -266,12 +266,14 @@ hide: false
                     return;
                 }
             }
+            const eatSound = new Audio('assets/vine-boom.mp3');
             // Snake eats food checker
             if(checkBlock(snake[0].x, snake[0].y, food.x, food.y)){
                 snake[snake.length] = {x: snake[0].x, y: snake[0].y};
                 altScore(++score);
                 addFood();
                 activeDot(food.x, food.y);
+                eatSound.play();
             }
             // Repaint canvas
             ctx.beginPath();
