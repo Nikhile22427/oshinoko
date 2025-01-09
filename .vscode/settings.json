@@ -1,5 +1,9 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
+    ],
+    "python.analysis.extraPaths": [
+        "./import ",
+        "./_site/import "
     ]
 }

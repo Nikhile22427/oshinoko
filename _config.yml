@@ -1,17 +1,16 @@
-title: I love oshi no ko
-
-description: "Class of 2025"
+title: Nikhil Ekambaram's blog
+description: description
 owner_name: Nikhil Ekambaram
 github_username: Nikhile22427
-github_repo: "Nikhil-blog" 
-baseurl: "/skibidi"
+github_repo: "oshinoko" 
+#baseurl: "/nikhil-blog-desktop"
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
