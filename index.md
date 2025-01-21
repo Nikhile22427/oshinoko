@@ -16,7 +16,6 @@ hide: false
 <h1>The one stop shop to track my progress this trimester</h1>
 <h2>Required stuff so far:</h2><br>
 <p><a href="https://nikhile22427.github.io/oshinoko/devops/tools/verify" target="_blank">Verify</a> <a href="https://nikhile22427.github.io/oshinoko/devops/github/pages/play" target="_blank">Play</a>
-
 </p>
 <style>
     body{
