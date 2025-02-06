@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Popcorn Hacks
-description: Popcorn Hacks for lessons.
+description: Popcorn Hacks for classes and methods.
 type: issues
 comments: True
 permalink: /csse/javascript/candm/pophax
