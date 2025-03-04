@@ -2,6 +2,7 @@
 layout: post
 title: Retrospective
 description: CSSE 1 Retrospective final
+type: collab
 comments: True
 permalink: /retrospective
 ---
