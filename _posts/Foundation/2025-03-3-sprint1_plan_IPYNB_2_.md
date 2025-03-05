@@ -63,8 +63,6 @@ We went beyond just changing the backround and npc's and added new things like i
 <h4>Feedback</h4>
 
 At N@TM, we showed our game to people and recieved 6 pieces of feedback.
-<img src="assets/feedback1.png">
-<img src="assets/feedback2.png">
 
 
 To summarize, They liked the concept but wished we could complete all features as a lot of them were still in progress. They also said that it would be nice if we had more things to do in the game, or another level. Additionally, we had one feature that only showed in the console that we need to try and show ingame.
@@ -96,8 +94,19 @@ Not sure of the project's name
 - Tracks check-ins at hospitals and organizes injuries
 - I think it's cool how they can gather all that information in real-time 
 
-<h2>proof I was at N@TM</h2>
-<img src="assets/proof1.jpeg">
+<h3>Strengths</h3>
+- ChatGPT usage
+- Understanding of Github for version control
+- Basic javascript understanding
 
+<h3>Weaknesses</h3>
+- Cannot do OOP javascript to save my life
+- I don't know any other languages than basic JS and some Python
+- My code seems to break from being left alone...
 
+<h3>Future Things</h3>
+- Figure our OOP programming
+- Learn more python (especially in and around Torchvision and OpenCV)
 
+<h3>Also, a project I did with my friend</h3>
+<a href="https://github.com/Nikhile22427/ISEF">link</a>
