@@ -63,8 +63,7 @@ We went beyond just changing the backround and npc's and added new things like i
 <h4>Feedback</h4>
 
 At N@TM, we showed our game to people and recieved 6 pieces of feedback.
-<img src="/Users/nikhil/oshinoko/images/Screenshot 2025-03-03 at 12.33.48 PM.png">
-<img src="/Users/nikhil/oshinoko/images/Screenshot 2025-03-03 at 12.39.45 PM.png">
+
 
 To summarize, They liked the concept but wished we could complete all features as a lot of them were still in progress. They also said that it would be nice if we had more things to do in the game, or another level. Additionally, we had one feature that only showed in the console that we need to try and show ingame.
 
@@ -94,6 +93,15 @@ Aesthetihawk
 Not sure of the project's name
 - Tracks check-ins at hospitals and organizes injuries
 - I think it's cool how they can gather all that information in real-time 
+
+> 0.93/1
+
+<h3>Future Plans</h3>
+While I am not sure If I want to pursue computer science as a career, I do know that I will make more projects outside of school because I find it interesting. I think I will go more into the computer vision area because that's what I find the most interesting.
+
+<h3>Final grade</h3>
+
+I think that I would give myself a 4.6/5 because I have satisfied all the Final's conditions and I am putting in effort to learn and have shown results in my snake and RPG game. I also am able to use GitHub effectively and collaborate well to finish projects.
 
 <h2>proof I was at N@TM</h2>
 <img src="/Users/nikhil/oshinoko/images/5A5D52F6-9B35-4453-A837-EF4C2463CBE7_1_102_o.jpeg" width="540">
