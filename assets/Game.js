@@ -1,6 +1,3 @@
-// Text Battle Arena - A simple text-based battle game
-// Characters fight in turns until only one remains
-
 class Character {
     constructor(name, hp, attack, speed) {
       this.name = name;
